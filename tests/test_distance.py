@@ -1,4 +1,4 @@
-from mlproject.distance import haversine
+from itsoutofhere.distance import haversine
 import math
 
 def test_valid_distance_from_haversine():
